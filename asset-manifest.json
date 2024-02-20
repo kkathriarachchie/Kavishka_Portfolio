@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Kavishka_Portfolio/static/css/main.ea11f963.css",
-    "main.js": "/Kavishka_Portfolio/static/js/main.141bbaf8.js",
+    "main.js": "/Kavishka_Portfolio/static/js/main.c69754ec.js",
     "static/media/about.png": "/Kavishka_Portfolio/static/media/about.cc1dcdecd9b932920081.png",
     "static/media/profile.jpeg": "/Kavishka_Portfolio/static/media/profile.7afe3609afb33e3532ca.jpeg",
     "static/media/Project_Inventory-Management-System.webp": "/Kavishka_Portfolio/static/media/Project_Inventory-Management-System.0826e2834cfaae7fd657.webp",
@@ -12,10 +12,10 @@
     "static/media/Example-Cv.pdf": "/Kavishka_Portfolio/static/media/Example-Cv.e83747cf513e0b21a7f1.pdf",
     "index.html": "/Kavishka_Portfolio/index.html",
     "main.ea11f963.css.map": "/Kavishka_Portfolio/static/css/main.ea11f963.css.map",
-    "main.141bbaf8.js.map": "/Kavishka_Portfolio/static/js/main.141bbaf8.js.map"
+    "main.c69754ec.js.map": "/Kavishka_Portfolio/static/js/main.c69754ec.js.map"
   },
   "entrypoints": [
     "static/css/main.ea11f963.css",
-    "static/js/main.141bbaf8.js"
+    "static/js/main.c69754ec.js"
   ]
 }
