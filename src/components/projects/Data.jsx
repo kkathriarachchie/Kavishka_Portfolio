@@ -12,7 +12,7 @@ export const projectsData = [
         category: "A",
         description : "Led the development of ReviewBar, an innovative Augmented Product Review App, addressing the challenge of accessing real-time product reviews in physical retail settings. Utilized agile methodologies and MEVN stack for efficient and dynamic application development, enhancing consumer decision-making in a tech-driven retail landscape.",
         stack: "MongoDB | Express | Vue.js | Node.js ",
-        plink:"",
+        plink:"https://github.com/kkathriarachchie/ReviewBar",
     },
     {
         id: 2,
@@ -21,7 +21,7 @@ export const projectsData = [
         category: "B",
         description : "Led the development of this voice-enabled smart office-room project, seamlessly integrating with existing wall switch panels to revolutionize how we interact with electronics. Elevate productivity and efficiency with intuitive voice commands, showcasing the transformative power of collaboration.",
         stack: "Arduino | Android ",
-        plink:"",
+        plink:"https://www.linkedin.com/posts/kavishka-kathriarachchi_hivelink-smartoffice-innovation-activity-7147621248204718080-Vdgi?utm_source=share&utm_medium=member_desktop",
 
     },
     {
@@ -32,7 +32,7 @@ export const projectsData = [
         description : "This web application is designed to help students easily calculate their GPA without a hassle. With just a few clicks, students\n" +
             "can get their GPA instantly.",
         stack: "HTML | CSS | Javascript | Firebase",
-        plink:"",
+        plink:"https://github.com/kkathriarachchie/GPA_Calculator",
 
     },
     {
@@ -42,7 +42,7 @@ export const projectsData = [
         category: "D",
         description : "D4",
         stack: "C# | .net framework | SQL",
-        plink:"",
+        plink:"https://github.com/kkathriarachchie/Inventory_Management_System",
 
     },
 ];
