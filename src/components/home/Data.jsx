@@ -1,23 +1,13 @@
-import React from 'react';
-import { useTypewriter, Cursor} from 'react-simple-typewriter'
+import React, {useEffect, useState} from 'react';
 
 const Data = () => {
-
-    const {text} = useTypewriter({
-        words:['Undergraduate Student', 'Content Creator', 'A/L ICT Tutor'],
-        loop:{},
-        typeSpeed: 120,
-        deleteSpeed: 80,
-    })
-
-
     return (
         <div className="home__data">
             <h1 className="home__title">
                 Kavishka Kathriarachchie
             </h1>
             <h3 className="home__subtitle">
-                {text}
+                Undergraduate Student
             </h3>
             <p className="home__description">
                 Information & Communication Technology (BICT) University of Sri Jayewardenepura | Content Creator
