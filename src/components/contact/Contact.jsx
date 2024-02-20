@@ -6,14 +6,24 @@ import { RiWhatsappLine } from "react-icons/ri";
 import { RiMessengerLine } from "react-icons/ri";
 
 const Contact = () => {
+
     const form = useRef();
     
     const sendEmail = (e) => {
         e.preventDefault();
-    
+
         emailjs.sendForm('service_g3xl4oz', 'template_ho78ae5', form.current, 'KEhhq82QGPVPAQuef')
+            .then((response) => {
+                console.log('Email sent successfully:', response);
+            })
+            .catch((error) => {
+                console.error('Error sending email:', error);
+            });
+
         e.target.reset();
+
     };
+
   
     return (
     <section className="contact section" id="contact">
