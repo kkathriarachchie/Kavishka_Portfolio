@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/Kavishka_Portfolio/static/css/main.16960080.css",
-    "main.js": "/Kavishka_Portfolio/static/js/main.a7f82132.js",
+    "main.js": "/Kavishka_Portfolio/static/js/main.8f572b4d.js",
     "static/media/about.png": "/Kavishka_Portfolio/static/media/about.cc1dcdecd9b932920081.png",
     "static/media/profile.jpeg": "/Kavishka_Portfolio/static/media/profile.7afe3609afb33e3532ca.jpeg",
-    "static/media/Project_Inventory-Management-System.webp": "/Kavishka_Portfolio/static/media/Project_Inventory-Management-System.875a2d4e1568e7639bb5.webp",
+    "static/media/Project_Inventory-Management-System.webp": "/Kavishka_Portfolio/static/media/Project_Inventory-Management-System.0826e2834cfaae7fd657.webp",
     "static/media/Project_GPA.webp": "/Kavishka_Portfolio/static/media/Project_GPA.538d96d9af8baeb96488.webp",
     "static/media/Project_HiveLink.webp": "/Kavishka_Portfolio/static/media/Project_HiveLink.d7537d3828d74a425991.webp",
     "static/media/Project_ReviewBar.webp": "/Kavishka_Portfolio/static/media/Project_ReviewBar.dda3bd939a9d04a0179b.webp",
@@ -15,10 +15,10 @@
     "static/media/Example-Cv.pdf": "/Kavishka_Portfolio/static/media/Example-Cv.e83747cf513e0b21a7f1.pdf",
     "index.html": "/Kavishka_Portfolio/index.html",
     "main.16960080.css.map": "/Kavishka_Portfolio/static/css/main.16960080.css.map",
-    "main.a7f82132.js.map": "/Kavishka_Portfolio/static/js/main.a7f82132.js.map"
+    "main.8f572b4d.js.map": "/Kavishka_Portfolio/static/js/main.8f572b4d.js.map"
   },
   "entrypoints": [
     "static/css/main.16960080.css",
-    "static/js/main.a7f82132.js"
+    "static/js/main.8f572b4d.js"
   ]
 }
