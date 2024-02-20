@@ -1,6 +1,7 @@
 import React from 'react';
 import "./footer.css";
 import {FiGithub, FiLinkedin, FiInstagram, FiFacebook} from 'react-icons/fi';
+import {ReactComponent as Logo}from "../../assets/img/Logo1.svg";
 
 const Footer = () => {
   return (
@@ -34,6 +35,7 @@ const Footer = () => {
             </div>
             <span className="footer__copy">
                 <div>
+                    <Logo className="name--logo"/><br/>
                     &copy; 2024 Kavishka Kathriarachchie. All rights reserved.
                 </div>
             </span>

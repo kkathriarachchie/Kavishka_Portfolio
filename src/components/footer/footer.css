@@ -3,6 +3,11 @@
     border-top: 1px solid rgba(0, 0, 0, 0.1);
 }
 
+.name--logo{
+    width: 130px;
+    height: 130px;
+}
+
 .footer__container {
     padding: 2rem 0 6rem;
 }
@@ -48,7 +53,7 @@
 
 .footer__copy {
     display: block;
-    margin-top: 4.5rem;
+    margin-top: -1rem;
     color: var(--title-color);
     text-align: center;
     font-size: var(--smaller-font-size);
@@ -60,5 +65,18 @@
         padding: 0.25rem;
         border-radius: 0.25rem;
         font-size: 1rem;
+    }
+
+    .name--logo{
+        width: 100px;
+        height: 100px;
+    }
+}
+
+@media screen and (max-width: 350px) {
+
+    .name--logo{
+        width: 80px;
+        height: 80px;
     }
 }
