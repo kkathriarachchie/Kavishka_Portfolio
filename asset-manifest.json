@@ -1,7 +1,20 @@
 {
   "files": {
-    "main.css": "/Kavishka_Portfolio/static/css/main.ea11f963.css",
-    "main.js": "/Kavishka_Portfolio/static/js/main.141bbaf8.js",
+    "main.css": "/Kavishka_Portfolio/static/css/main.03a98a50.css",
+    "main.js": "/Kavishka_Portfolio/static/js/main.3c149f7b.js",
+    "reactPlayerYouTube.js": "/Kavishka_Portfolio/static/js/reactPlayerYouTube.6a7c6744.chunk.js",
+    "reactPlayerSoundCloud.js": "/Kavishka_Portfolio/static/js/reactPlayerSoundCloud.522d7489.chunk.js",
+    "reactPlayerVimeo.js": "/Kavishka_Portfolio/static/js/reactPlayerVimeo.8009285f.chunk.js",
+    "reactPlayerFacebook.js": "/Kavishka_Portfolio/static/js/reactPlayerFacebook.3aede44d.chunk.js",
+    "reactPlayerStreamable.js": "/Kavishka_Portfolio/static/js/reactPlayerStreamable.37c95759.chunk.js",
+    "reactPlayerWistia.js": "/Kavishka_Portfolio/static/js/reactPlayerWistia.e6c3bbd9.chunk.js",
+    "reactPlayerTwitch.js": "/Kavishka_Portfolio/static/js/reactPlayerTwitch.2023317d.chunk.js",
+    "reactPlayerDailyMotion.js": "/Kavishka_Portfolio/static/js/reactPlayerDailyMotion.8bd2543e.chunk.js",
+    "reactPlayerMixcloud.js": "/Kavishka_Portfolio/static/js/reactPlayerMixcloud.6f073ed6.chunk.js",
+    "reactPlayerVidyard.js": "/Kavishka_Portfolio/static/js/reactPlayerVidyard.ee47b14d.chunk.js",
+    "reactPlayerKaltura.js": "/Kavishka_Portfolio/static/js/reactPlayerKaltura.c654458a.chunk.js",
+    "reactPlayerFilePlayer.js": "/Kavishka_Portfolio/static/js/reactPlayerFilePlayer.86ad2f06.chunk.js",
+    "reactPlayerPreview.js": "/Kavishka_Portfolio/static/js/reactPlayerPreview.575c1a7b.chunk.js",
     "static/media/about.png": "/Kavishka_Portfolio/static/media/about.cc1dcdecd9b932920081.png",
     "static/media/profile.jpeg": "/Kavishka_Portfolio/static/media/profile.7afe3609afb33e3532ca.jpeg",
     "static/media/Project_Inventory-Management-System.webp": "/Kavishka_Portfolio/static/media/Project_Inventory-Management-System.0826e2834cfaae7fd657.webp",
@@ -11,11 +24,24 @@
     "static/media/Logo1.svg": "/Kavishka_Portfolio/static/media/Logo1.fea7703f182ccd9882ad0c0b453e130b.svg",
     "static/media/Example-Cv.pdf": "/Kavishka_Portfolio/static/media/Example-Cv.e83747cf513e0b21a7f1.pdf",
     "index.html": "/Kavishka_Portfolio/index.html",
-    "main.ea11f963.css.map": "/Kavishka_Portfolio/static/css/main.ea11f963.css.map",
-    "main.141bbaf8.js.map": "/Kavishka_Portfolio/static/js/main.141bbaf8.js.map"
+    "main.03a98a50.css.map": "/Kavishka_Portfolio/static/css/main.03a98a50.css.map",
+    "main.3c149f7b.js.map": "/Kavishka_Portfolio/static/js/main.3c149f7b.js.map",
+    "reactPlayerYouTube.6a7c6744.chunk.js.map": "/Kavishka_Portfolio/static/js/reactPlayerYouTube.6a7c6744.chunk.js.map",
+    "reactPlayerSoundCloud.522d7489.chunk.js.map": "/Kavishka_Portfolio/static/js/reactPlayerSoundCloud.522d7489.chunk.js.map",
+    "reactPlayerVimeo.8009285f.chunk.js.map": "/Kavishka_Portfolio/static/js/reactPlayerVimeo.8009285f.chunk.js.map",
+    "reactPlayerFacebook.3aede44d.chunk.js.map": "/Kavishka_Portfolio/static/js/reactPlayerFacebook.3aede44d.chunk.js.map",
+    "reactPlayerStreamable.37c95759.chunk.js.map": "/Kavishka_Portfolio/static/js/reactPlayerStreamable.37c95759.chunk.js.map",
+    "reactPlayerWistia.e6c3bbd9.chunk.js.map": "/Kavishka_Portfolio/static/js/reactPlayerWistia.e6c3bbd9.chunk.js.map",
+    "reactPlayerTwitch.2023317d.chunk.js.map": "/Kavishka_Portfolio/static/js/reactPlayerTwitch.2023317d.chunk.js.map",
+    "reactPlayerDailyMotion.8bd2543e.chunk.js.map": "/Kavishka_Portfolio/static/js/reactPlayerDailyMotion.8bd2543e.chunk.js.map",
+    "reactPlayerMixcloud.6f073ed6.chunk.js.map": "/Kavishka_Portfolio/static/js/reactPlayerMixcloud.6f073ed6.chunk.js.map",
+    "reactPlayerVidyard.ee47b14d.chunk.js.map": "/Kavishka_Portfolio/static/js/reactPlayerVidyard.ee47b14d.chunk.js.map",
+    "reactPlayerKaltura.c654458a.chunk.js.map": "/Kavishka_Portfolio/static/js/reactPlayerKaltura.c654458a.chunk.js.map",
+    "reactPlayerFilePlayer.86ad2f06.chunk.js.map": "/Kavishka_Portfolio/static/js/reactPlayerFilePlayer.86ad2f06.chunk.js.map",
+    "reactPlayerPreview.575c1a7b.chunk.js.map": "/Kavishka_Portfolio/static/js/reactPlayerPreview.575c1a7b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ea11f963.css",
-    "static/js/main.141bbaf8.js"
+    "static/css/main.03a98a50.css",
+    "static/js/main.3c149f7b.js"
   ]
 }
