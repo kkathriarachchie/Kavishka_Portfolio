@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Kavishka_Portfolio/static/css/main.1b77b311.css",
-    "main.js": "/Kavishka_Portfolio/static/js/main.545b5182.js",
+    "main.css": "/Kavishka_Portfolio/static/css/main.24ca6b4a.css",
+    "main.js": "/Kavishka_Portfolio/static/js/main.3288f1a7.js",
     "reactPlayerYouTube.js": "/Kavishka_Portfolio/static/js/reactPlayerYouTube.6a7c6744.chunk.js",
     "reactPlayerSoundCloud.js": "/Kavishka_Portfolio/static/js/reactPlayerSoundCloud.522d7489.chunk.js",
     "reactPlayerVimeo.js": "/Kavishka_Portfolio/static/js/reactPlayerVimeo.8009285f.chunk.js",
@@ -15,8 +15,8 @@
     "reactPlayerKaltura.js": "/Kavishka_Portfolio/static/js/reactPlayerKaltura.c654458a.chunk.js",
     "reactPlayerFilePlayer.js": "/Kavishka_Portfolio/static/js/reactPlayerFilePlayer.86ad2f06.chunk.js",
     "reactPlayerPreview.js": "/Kavishka_Portfolio/static/js/reactPlayerPreview.575c1a7b.chunk.js",
-    "static/media/about.png": "/Kavishka_Portfolio/static/media/about.cc1dcdecd9b932920081.png",
-    "static/media/profile.jpeg": "/Kavishka_Portfolio/static/media/profile.7afe3609afb33e3532ca.jpeg",
+    "static/media/about1.jpg": "/Kavishka_Portfolio/static/media/about1.e2b1f8f87d911a8b0eab.jpg",
+    "static/media/profile1.jpg": "/Kavishka_Portfolio/static/media/profile1.71d2d3d3ecd9499c6c1c.jpg",
     "static/media/Project_Inventory-Management-System.webp": "/Kavishka_Portfolio/static/media/Project_Inventory-Management-System.0826e2834cfaae7fd657.webp",
     "static/media/Project_GPA.webp": "/Kavishka_Portfolio/static/media/Project_GPA.538d96d9af8baeb96488.webp",
     "static/media/Project_HiveLink.webp": "/Kavishka_Portfolio/static/media/Project_HiveLink.d7537d3828d74a425991.webp",
@@ -24,8 +24,8 @@
     "static/media/Logo2.svg": "/Kavishka_Portfolio/static/media/Logo2.3b74c1659630fc64fa77662e38fbdc42.svg",
     "static/media/Example-Cv.pdf": "/Kavishka_Portfolio/static/media/Example-Cv.e83747cf513e0b21a7f1.pdf",
     "index.html": "/Kavishka_Portfolio/index.html",
-    "main.1b77b311.css.map": "/Kavishka_Portfolio/static/css/main.1b77b311.css.map",
-    "main.545b5182.js.map": "/Kavishka_Portfolio/static/js/main.545b5182.js.map",
+    "main.24ca6b4a.css.map": "/Kavishka_Portfolio/static/css/main.24ca6b4a.css.map",
+    "main.3288f1a7.js.map": "/Kavishka_Portfolio/static/js/main.3288f1a7.js.map",
     "reactPlayerYouTube.6a7c6744.chunk.js.map": "/Kavishka_Portfolio/static/js/reactPlayerYouTube.6a7c6744.chunk.js.map",
     "reactPlayerSoundCloud.522d7489.chunk.js.map": "/Kavishka_Portfolio/static/js/reactPlayerSoundCloud.522d7489.chunk.js.map",
     "reactPlayerVimeo.8009285f.chunk.js.map": "/Kavishka_Portfolio/static/js/reactPlayerVimeo.8009285f.chunk.js.map",
@@ -41,7 +41,7 @@
     "reactPlayerPreview.575c1a7b.chunk.js.map": "/Kavishka_Portfolio/static/js/reactPlayerPreview.575c1a7b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1b77b311.css",
-    "static/js/main.545b5182.js"
+    "static/css/main.24ca6b4a.css",
+    "static/js/main.3288f1a7.js"
   ]
 }
