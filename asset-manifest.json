@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Kavishka_Portfolio/static/css/main.24ca6b4a.css",
+    "main.css": "/Kavishka_Portfolio/static/css/main.d36ce821.css",
     "main.js": "/Kavishka_Portfolio/static/js/main.3288f1a7.js",
     "reactPlayerYouTube.js": "/Kavishka_Portfolio/static/js/reactPlayerYouTube.6a7c6744.chunk.js",
     "reactPlayerSoundCloud.js": "/Kavishka_Portfolio/static/js/reactPlayerSoundCloud.522d7489.chunk.js",
@@ -24,7 +24,7 @@
     "static/media/Logo2.svg": "/Kavishka_Portfolio/static/media/Logo2.3b74c1659630fc64fa77662e38fbdc42.svg",
     "static/media/Example-Cv.pdf": "/Kavishka_Portfolio/static/media/Example-Cv.e83747cf513e0b21a7f1.pdf",
     "index.html": "/Kavishka_Portfolio/index.html",
-    "main.24ca6b4a.css.map": "/Kavishka_Portfolio/static/css/main.24ca6b4a.css.map",
+    "main.d36ce821.css.map": "/Kavishka_Portfolio/static/css/main.d36ce821.css.map",
     "main.3288f1a7.js.map": "/Kavishka_Portfolio/static/js/main.3288f1a7.js.map",
     "reactPlayerYouTube.6a7c6744.chunk.js.map": "/Kavishka_Portfolio/static/js/reactPlayerYouTube.6a7c6744.chunk.js.map",
     "reactPlayerSoundCloud.522d7489.chunk.js.map": "/Kavishka_Portfolio/static/js/reactPlayerSoundCloud.522d7489.chunk.js.map",
@@ -41,7 +41,7 @@
     "reactPlayerPreview.575c1a7b.chunk.js.map": "/Kavishka_Portfolio/static/js/reactPlayerPreview.575c1a7b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.24ca6b4a.css",
+    "static/css/main.d36ce821.css",
     "static/js/main.3288f1a7.js"
   ]
 }
