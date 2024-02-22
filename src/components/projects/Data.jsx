@@ -29,8 +29,7 @@ export const projectsData = [
         image: Project3,
         title: "GPA Calculator",
         category: "C",
-        description : "This web application is designed to help students easily calculate their GPA without a hassle. With just a few clicks, students\n" +
-            "can get their GPA instantly.",
+        description : "This web application is designed to help students easily calculate their GPA without a hassle. With just a few clicks, students can get their GPA instantly.",
         stack: "HTML | CSS | Javascript | Firebase",
         plink:"https://github.com/kkathriarachchie/GPA_Calculator",
 
@@ -40,7 +39,7 @@ export const projectsData = [
         image: Project4,
         title: "Inventory Management System",
         category: "D",
-        description : "D4",
+        description : "Explore our Inventory Management System (IMS) project, a user-friendly solution for streamlined inventory control. With a secure database, performance optimization, and scalability, it caters to diverse business needs, ensuring real-time data accuracy and operational efficiency.",
         stack: "C# | .net framework | SQL",
         plink:"https://github.com/kkathriarachchie/Inventory_Management_System",
 

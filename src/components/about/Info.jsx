@@ -1,5 +1,4 @@
 import React from 'react';
-import { HiOutlineDesktopComputer, HiOutlineTerminal, HiOutlineSparkles } from "react-icons/hi";
 import { RiYoutubeLine } from "react-icons/ri";
 import { IoBookSharp } from "react-icons/io5";
 import { GiTeacher } from "react-icons/gi";

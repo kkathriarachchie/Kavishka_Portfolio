@@ -23,7 +23,7 @@ const Data = () => {
                 />
             </h3>
             <p className="home__description">
-                Information & Communication Technology (BICT) University of Sri Jayewardenepura | Content Creator
+                Information & Communication Technology (BICT) University of Sri Jayewardenepura.
 
                 <hr className="custom-hr" />
             </p>

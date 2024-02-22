@@ -1,7 +1,7 @@
 import React from 'react';
 import "./footer.css";
 import {FiGithub, FiLinkedin, FiInstagram, FiFacebook} from 'react-icons/fi';
-import {ReactComponent as Logo}from "../../assets/img/Logo1.svg";
+import {ReactComponent as Logo}from "../../assets/img/Logo2.svg";
 
 const Footer = () => {
   return (

@@ -1,8 +1,6 @@
 import React, {useState} from 'react';
-import {HiOutlineArrowSmRight, HiOutlineCheckCircle, HiX} from "react-icons/hi";
-import '../services/services.css';
-import { BsFillGearFill } from "react-icons/bs";
-import { GiGears } from "react-icons/gi";
+import {HiOutlineArrowSmRight, HiX} from "react-icons/hi";
+import './projects-show.css';
 import { BiLink } from "react-icons/bi";
 import { FaRegArrowAltCircleRight } from "react-icons/fa";
 
@@ -19,7 +17,7 @@ const ProjectItems = ({item}) => {
             <img className="project__img" src={item.image} alt="" />
             <h3 className="project__title">{item.title}</h3>
             <span className="services__button" onClick={() => toggleTab(1)}>
-                    View More
+                    Read More
                     <HiOutlineArrowSmRight className="services__button-icon" />
                 </span>
             <div className={toggleState === 1 ? "services__modal active-modal" : "services__modal"}>
@@ -39,7 +37,7 @@ const ProjectItems = ({item}) => {
                         <li className="services__modal-service">
                             <BiLink className="services__modal-icon" />
                             <p className="services__modal-info">
-                                <a href={item.plink} target="_blank" rel="noopener noreferrer"> Project File </a>
+                                <a href={item.plink} target="_blank" rel="noopener noreferrer" style={{ color: 'var(--text-color)'}} > Project File </a>
                             </p>
                         </li>
                     </ul>

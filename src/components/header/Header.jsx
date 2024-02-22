@@ -1,7 +1,7 @@
 import React, {useState} from "react";
 import './header.css';
 import { HiOutlineHome, HiOutlineUser, HiOutlineBadgeCheck, HiOutlineClipboardList, HiOutlinePhotograph, HiOutlineMail, HiX, HiOutlineMenu } from "react-icons/hi";
-import {ReactComponent as Logo}from "../../assets/img/Logo1.svg";
+import {ReactComponent as Logo}from "../../assets/img/Logo2.svg";
 
 
 
