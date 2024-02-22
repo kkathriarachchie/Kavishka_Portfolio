@@ -1,5 +1,5 @@
 import React, {useEffect, useState} from 'react';
-
+import { TypeAnimation } from 'react-type-animation';
 const Data = () => {
     return (
         <div className="home__data">
@@ -7,7 +7,20 @@ const Data = () => {
                 Kavishka Kathriarachchie
             </h1>
             <h3 className="home__subtitle">
-                Undergraduate Student
+                <TypeAnimation
+                    sequence={[
+                        // Same substring at the start will only be typed out once, initially
+                        'Undergraduate Student',
+                        1000, // wait 1s before replacing "Mice" with "Hamsters"
+                        'Content Creator',
+                        1000,
+                        'A/L ICT Tutor',
+                        1000
+                    ]}
+                    wrapper="span"
+                    speed={50}
+                    repeat={Infinity}
+                />
             </h3>
             <p className="home__description">
                 Information & Communication Technology (BICT) University of Sri Jayewardenepura | Content Creator
